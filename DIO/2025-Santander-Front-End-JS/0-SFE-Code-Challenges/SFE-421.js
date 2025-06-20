@@ -1,5 +1,12 @@
-// Explorando Lógica de Programação com JavaScript
-// 1 / 2 - Classificação de Personagens
+/*
+Platform: Digital Innovation One - DIO
+BootCamp: Santander 2025 Front-End (JS)
+Developer: Monica Cardoso
+Collaborator(s): André Bezerra
+Module: Explorando Lógica de Programação com JavaScript
+Challenge: 1 / 2 - Classificação de Personagens
+*/
+
 //Desafios JavaScript na DIO têm funções "gets" e "print" acessíveis globalmente:
 //- "gets" : lê UMA linha com dado(s) de entrada (inputs) do usuário;
 //- "print": imprime um texto de saída (output), pulando linha.

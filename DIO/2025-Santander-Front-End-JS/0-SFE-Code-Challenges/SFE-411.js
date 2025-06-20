@@ -1,5 +1,11 @@
-// Fundamentos de Estilização com CSS
-// 1 / 2 - Estilizando Texto com CSS
+/*
+Platform: Digital Innovation One - DIO
+BootCamp: Santander 2025 Front-End (JS)
+Developer: Monica Cardoso
+Collaborator(s): André Bezerra
+Module: Fundamentos de Estilização com CSS
+Challenge: 1 / 2 - Estilizando Texto com CSS
+*/
 
 // Função responsável por descrever a propriedade CSS
 function descreverPropriedadeCSS(propriedade) {

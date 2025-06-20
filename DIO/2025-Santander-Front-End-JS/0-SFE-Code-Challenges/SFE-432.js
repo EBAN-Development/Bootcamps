@@ -1,5 +1,12 @@
-//Aprimorando Habilidades em JavaScript
-// 2 / 2 - Dicionário Mágico de Feitiços
+/*
+Platform: Digital Innovation One - DIO
+BootCamp: Santander 2025 Front-End (JS)
+Developer: Monica Cardoso
+Collaborator(s): André Bezerra
+Module: Aprimorando Habilidades em JavaScript
+Challenge: 2 / 2 - Dicionário Mágico de Feitiços
+*/
+
 // TODO: Implemente um dicionário de feitiços pré-definido, simule um JSON:
 const buscarFeitico = {
     "Lumus": "Cria uma luz na ponta da varinha",

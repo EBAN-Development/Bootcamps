@@ -1,5 +1,12 @@
-// Aprimorando Habilidades em JavaScript
-// 1 / 2 - Sistema de Estoque da Loja do Mestre dos Magos
+/*
+Platform: Digital Innovation One - DIO
+BootCamp: Santander 2025 Front-End (JS)
+Developer: Monica Cardoso
+Collaborator(s): André Bezerra
+Module: Aprimorando Habilidades em JavaScript
+Challenge: 1 / 2 - Sistema de Estoque da Loja do Mestre dos Magos
+*/
+
 // TODO: Implemente aqui uma função verificarEstoque() que recebe três parâmetros;
 function verificarEstoque(nomeItem, quantidadeDisponivel, quantidadeSolicitada) {
     // TODO: Retorne conforme a descrição.

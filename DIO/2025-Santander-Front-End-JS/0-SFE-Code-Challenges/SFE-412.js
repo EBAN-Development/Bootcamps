@@ -1,5 +1,12 @@
-// Fundamentos de Estilização com CSS
-// 2 / 2 - Criando Bordas no CSS
+/*
+Platform: Digital Innovation One - DIO
+BootCamp: Santander 2025 Front-End (JS)
+Developer: Monica Cardoso
+Collaborator(s): André Bezerra
+Module: Fundamentos de Estilização com CSS
+Challenge: 2 / 2 - Criando Bordas no CSS
+*/
+
 // Função responsável por descrever o estilo de borda no CSS
 function descreverBorda(estilo) {
     if (estilo === "solid") {

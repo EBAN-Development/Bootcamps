@@ -1,5 +1,12 @@
-// Explorando Lógica de Programação com JavaScript
-// 2 / 2 - Gerenciamento de Equipes de Heróis e Vilões
+/*
+Platform: Digital Innovation One - DIO
+BootCamp: Santander 2025 Front-End (JS)
+Developer: Monica Cardoso
+Collaborator(s): André Bezerra
+Module: Explorando Lógica de Programação com JavaScript
+Challenge: 1 / 2 - Classificação de Personagens
+*/
+
 // TODO: Crie dois arrays para armazenar herois e viloes:
 let herois = []
 let viloes = []

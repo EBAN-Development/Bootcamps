@@ -1,5 +1,11 @@
-// Desenvolvendo Soluções com JavaScript
-// 1 / 2 - Criador de Nomes de Dragões
+/*
+Platform: Digital Innovation One - DIO
+BootCamp: Santander 2025 Front-End (JS)
+Developer: Monica Cardoso
+Collaborator(s): André Bezerra
+Module:  Desenvolvendo Soluções com JavaScript
+Challenge: 1 / 2 - Criador de Nomes de Dragões
+*/
 
 // Lê a força do dragão e converte para inteiro
 const forca = parseInt(gets().trim());
