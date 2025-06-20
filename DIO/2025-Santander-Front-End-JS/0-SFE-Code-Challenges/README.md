@@ -1,4 +1,4 @@
-# Santander 2025 - Front-End com JavaScript
+# CODE CHALLENGE - Santander 2025 - Front-End (JavaScript)
 
 Desafios desenvolvidos em **JavaScript**: As soluções dos desafios propostos durante a experiência no bootcamp.
 
@@ -18,4 +18,5 @@ Desafios desenvolvidos em **JavaScript**: As soluções dos desafios propostos d
 |  	    |                                                 |              | SFE-442 |[Contador de Cartas de Duelista]()                | :white_check_mark: |
 
 ## Análise dos Desafios
+
 
