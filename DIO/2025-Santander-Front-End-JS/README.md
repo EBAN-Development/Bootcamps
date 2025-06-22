@@ -32,67 +32,67 @@ Setup information:
 |MID	|MODULE 											|SID	|CATEGORY 		|SUBMDULE 				|DURATION	|CHECK					|
 |:----  |:---- 												|:----	|:----:			|:----:					|:----:		|:----:					|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
-|		|													|SM-X	|Mentoring		|<title>  				|			|						|
+|		|			 										|SC-1	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-2	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-3	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-4	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-1	|Lab Project	|<title>  				|	   		|						|
+|		|													|SM-1	|Mentoring		|<title>  				|			|						|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SC-5	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-6	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-7	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-8	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-9	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-10	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-2	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SLP-3	|Lab Project	|<title>  				|	   		|						|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SC-11	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-12	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-13	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-14	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-4	|Lab Project	|<title>  				|	   		|						|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|													|SCC-X	|Code Challenge	|<title>  				|			|						|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SC-15	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-16	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-5	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SC-17	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-18	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|													|SCC-1	|Code Challenge	|<title>  				|			|						|
+|		|			 										|SLP-6	|Lab Project	|<title>  				|	   		|						|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|													|SCC-X	|Code Challenge	|<title>  				|			|						|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SC-19	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-20	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-21	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-22	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-23	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-24	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-25	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|													|SCC-2	|Code Challenge	|<title>  				|			|						|
+|		|			 										|SLP-7	|Lab Project	|<title>  				|	   		|						|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|													|SCC-X	|Code Challenge	|<title>  				|			|						|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SC-26	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-27	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-28	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-29	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-30	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-31	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|													|SCC-3	|Code Challenge	|<title>  				|			|						|
+|		|			 										|SLP-8	|Lab Project	|<title>  				|	   		|						|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SC-32	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-33	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-34	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-9	|Lab Project	|<title>  				|	   		|						|
 |M-X 	|<title>											|	   	|				| 					 	|			|:white_check_mark:		|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
-|		|			 										|SLP-X	|Lab Project	|<title>  				|	   		|						|
-|		|													|SCC-X	|Code Challenge	|<title>  				|			|						|
-|		|			 										|SC-X	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-35	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-36	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-37	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SC-38	|Course			|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-10	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SLP-11	|Lab Project	|<title>  				|	   		|						|
+|		|													|SCC-4	|Code Challenge	|<title>  				|			|						|
+|		|			 										|SC-39	|Course			|<title>  				|	   		|:white_square_button:	|
 
 ## Análise geral do BootCamp
