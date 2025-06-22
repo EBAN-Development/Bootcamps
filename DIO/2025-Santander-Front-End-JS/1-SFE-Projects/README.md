@@ -2,9 +2,9 @@
 
 > Description
 
-|SID    |SUBMODULE                                        |FOLDER     	 |PROGRESS                                      	 	 |CHECK              	 |
+|SID    |PROJECT                                          |FOLDER     	 |PROGRESS                                      	 	 |CHECK              	 |
 |:----: |:----                                            | :----   	 | :----                                                 | :----:             	 |
-|SLP-1	|[]()               							  |1-SFEP        |                                                  	 | :white_square_button: |
+|SLP-1	|[]()											  |1-SFEP        |                                                  	 | :white_square_button: |
 |SLP-2	|[]()            								  |2-SFEP        |                                                  	 | :white_square_button: |
 |SLP-3	|[]()            								  |3-SFEP        |                                                  	 | :white_square_button: |
 |SLP-4	|[]()            								  |4-SFEP        |                                                  	 | :white_square_button: |
