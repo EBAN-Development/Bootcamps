@@ -2,7 +2,7 @@
 
 ## Images
 
-1. [Brasão do BootCamp - santander-2025-front-end-js.png](/3-SFE-Support-files)
+1. [Brasão do BootCamp - santander-2025-front-end-js.png](santander-2025-front-end-js.png)
 
 ## PDFs
 
