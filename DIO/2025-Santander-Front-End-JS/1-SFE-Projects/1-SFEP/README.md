@@ -4,8 +4,8 @@
 
 [Registro do procedimento realizado para a conclusão do laboratório (Github)](https://github.com/digitalinnovationone/dio-lab-open-source/pull/13346)
 
-## fluxograma de produção
+## Fluxograma de produção
 
-## Analise das etapas de produção
+## Análise das etapas de produção
 
  

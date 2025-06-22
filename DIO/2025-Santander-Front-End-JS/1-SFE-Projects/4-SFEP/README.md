@@ -4,6 +4,7 @@
 
 [Informações sobre a produção do projeto em outro repositório](https://github.com/SrtaZuzza/css_html_landing_page?tab=readme-ov-file)
 
-## fluxograma de produção
+## Fluxograma de produção
 
-## Analise das etapas de produção
+## Análise das etapas de produção
+

@@ -3,7 +3,7 @@
 Desafios desenvolvidos em **JavaScript**: As soluções dos desafios propostos durante a experiência no bootcamp.
 
 |SID    |SUBMODULE                                        |LEVEL         |FILE     | CHALLENGE                                        | CHECK              |
-|:----: |:----                                            | :----        | :----   | :----                                            | :----:             |
+|:----: |:----                                            | :----        | :----:  | :----                                            | :----:             |
 |SCC-1	|Fundamentos de Estilização com CSS               | BASIC        |         |                                                  |                    |
 |  	    |                                                 |              | SFE-411 |[Estilizando Texto com CSS]()                     | :white_check_mark: |
 |  	    |                                                 |              | SFE-412 |[Criando Bordas no CSS]()                         | :white_check_mark: |
@@ -19,7 +19,7 @@ Desafios desenvolvidos em **JavaScript**: As soluções dos desafios propostos d
 
 ## Análise dos Desafios
 
-> Avaliação de possíveis dificuldades de compreensão do problema e da definição das estratégias de solução.
+> Avaliação de possíveis dificuldades para compreensão do problema e da definição das estratégias de solução.
 
 > Dicas
 

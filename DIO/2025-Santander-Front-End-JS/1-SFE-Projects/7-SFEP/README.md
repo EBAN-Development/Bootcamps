@@ -4,6 +4,8 @@
 
 [Avaliar melhorias do projeto anterior <- ](https://github.com/SrtaZuzza/classificador-heroi)
 
-## fluxograma de produção
+## Fluxograma de produção
 
-## Analise das etapas de produção
+## Análise das etapas de produção
+
+
