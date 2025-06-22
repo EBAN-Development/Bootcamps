@@ -19,4 +19,8 @@ Desafios desenvolvidos em **JavaScript**: As soluções dos desafios propostos d
 
 ## Análise dos Desafios
 
+> Avaliação de possíveis dificuldades de compreensão do problema e da definição das estratégias de solução.
+
+> Dicas
+
 
