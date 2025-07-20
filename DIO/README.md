@@ -14,7 +14,7 @@
 |SFE25 |[Santander 2025 Front-End JS](https://github.com/EBAN-Development/Bootcamps/tree/DIO-Santander-2025-Front-End)|August, 31 2025| :white_square_button:  |
 |WEE25 |[WEX - End-to-End Engineering](https://github.com/EBAN-Development/Bootcamps/tree/DIO-WEX-End-to-End-Engineering)|August, 25 2025| :white_square_button:  |
 |FPHPE |[Formação PHP Experience](https://github.com/EBAN-Development/Bootcamps/tree/DIO-WEX-End-to-End-Engineering)|    ---     | :white_square_button:  |
-|BDMLT |[BairesDev - Machine Learning Training]()           |  September, 21 2025   | :white_square_button:  |
+|BDM25 |[BairesDev - Machine Learning Training]()           |  September, 21 2025   | :white_square_button:  |
 |      |[]()                   |                 | :white_square_button:  |
 |      |[]()                   |                 | :white_square_button:  |
 |      |[]()                   |                 | :white_square_button:  |
