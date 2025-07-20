@@ -1,6 +1,6 @@
-# SANTANDER 2025 - FRONT-END (JavaScript)
+# SANTANDER 2025 - FRONT-END JS
 
-**Informações:** [Santander 2025 - Front-End com JavaSeript]()
+**Informações:** [Santander 2025 - Front-End com JavaSeript](https://web.dio.me/track/santander-2025-front-end)
 
 > Dominar estratégia para o bom desenvolvimento em Front-End com HTML, CSS e JAVASCRIPT, com uma base estruturada de conteúdos e 10 projetos práticos, ao incluir páginas web responsivas e dinâmicas com temática do Stranger Things, Spider Man, Yu-Gi-Oh e mais!
 
@@ -29,15 +29,15 @@ Setup information:
 |:----: |:----:  		   |:----:  	   |
 |39		|11				   |4			   | 
 
-|MID	|MODULE 											|SID	|CATEGORY 		|SUBMDULE 				|DURATION	|CHECK					|
+|MID	|MODULE 											|SID	|CATEGORY 		|SUBMDULE 				|DURATION	|:white_check_mark:		|
 |:----  |:---- 												|:----	|:----			|:----:					|:----:		|:----:					|
 |M-1 	|Princípios de Desenvolvimento Web					|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-1	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-2	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-3	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-4	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-1	|Lab Project	|<title>  				|	   		|						|
-|		|													|SM-1	|Mentoring		|<title>  				|			|						|
+|		|			 										|SLP-1	|Lab Project	|<title>  				|	   		|:white_square_button:	|
+|		|													|SM-1	|Mentoring		|<title>  				|			|:white_square_button:	|
 |M-2 	|Primeiros Passos com HTML							|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-5	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-6	|Course			|<title>  				|	   		|:white_square_button:	|
@@ -45,22 +45,22 @@ Setup information:
 |		|			 										|SC-8	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-9	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-10	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-2	|Lab Project	|<title>  				|	   		|						|
-|		|			 										|SLP-3	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SLP-2	|Lab Project	|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-3	|Lab Project	|<title>  				|	   		|:white_square_button:	|
 |M-3 	|Explorando os Fundamentos do CSS					|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-11	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-12	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-13	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-14	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-4	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SLP-4	|Lab Project	|<title>  				|	   		|:white_square_button:	|
 |M-4 	|Posicionamento De Elementos com CSS				|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-15	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-16	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-5	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SLP-5	|Lab Project	|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-17	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-18	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|													|SCC-1	|Code Challenge	|<title>  				|			|						|
-|		|			 										|SLP-6	|Lab Project	|<title>  				|	   		|						|
+|		|													|SCC-1	|Code Challenge	|<title>  				|			|:white_square_button:  |
+|		|			 										|SLP-6	|Lab Project	|<title>  				|	   		|:white_square_button:	|
 |M-5 	|Lógica Aplicada com Javascript						|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-19	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-20	|Course			|<title>  				|	   		|:white_square_button:	|
@@ -69,8 +69,8 @@ Setup information:
 |		|			 										|SC-23	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-24	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-25	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|													|SCC-2	|Code Challenge	|<title>  				|			|						|
-|		|			 										|SLP-7	|Lab Project	|<title>  				|	   		|						|
+|		|													|SCC-2	|Code Challenge	|<title>  				|			|:white_square_button:	|
+|		|			 										|SLP-7	|Lab Project	|<title>  				|	   		|:white_square_button:	|
 |M-6 	|Seus Primeiros Passos com JavaScript				|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-26	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-27	|Course			|<title>  				|	   		|:white_square_button:	|
@@ -78,21 +78,21 @@ Setup information:
 |		|			 										|SC-29	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-30	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-31	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|													|SCC-3	|Code Challenge	|<title>  				|			|						|
-|		|			 										|SLP-8	|Lab Project	|<title>  				|	   		|						|
+|		|													|SCC-3	|Code Challenge	|<title>  				|			|:white_square_button:	|
+|		|			 										|SLP-8	|Lab Project	|<title>  				|	   		|:white_square_button:	|
 |M-7 	|Consumindo APIS com Javascript						|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-32	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-33	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-34	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-9	|Lab Project	|<title>  				|	   		|						|
+|		|			 										|SLP-9	|Lab Project	|<title>  				|	   		|:white_square_button:	|
 |M-8 	|Criando Páginas Web Dinâmicas e Interativas		|	   	|				| 					 	|			|:white_check_mark:		|
 |		|			 										|SC-35	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-36	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-37	|Course			|<title>  				|	   		|:white_square_button:	|
 |		|			 										|SC-38	|Course			|<title>  				|	   		|:white_square_button:	|
-|		|			 										|SLP-10	|Lab Project	|<title>  				|	   		|						|
-|		|			 										|SLP-11	|Lab Project	|<title>  				|	   		|						|
-|		|													|SCC-4	|Code Challenge	|<title>  				|			|						|
+|		|			 										|SLP-10	|Lab Project	|<title>  				|	   		|:white_square_button:	|
+|		|			 										|SLP-11	|Lab Project	|<title>  				|	   		|:white_square_button:	|
+|		|													|SCC-4	|Code Challenge	|<title>  				|			|:white_square_button:	|
 |		|			 										|SC-39	|Course			|<title>  				|	   		|:white_square_button:	|
 
 ## Análise geral do BootCamp
