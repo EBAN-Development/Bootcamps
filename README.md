@@ -74,24 +74,24 @@ Esse projeto foi idealizado por:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://yt3.googleusercontent.com/8ugRXLb4eIgS-HFsKVwZ9_PeXbJhOMFnKBFSTgdBA55tvS7Xm6y8GzX7wQkr7Lh___Ct1dcGpA" width="100px;" alt="Logotipo do Canal EBAN" style="border-radius:50%"/><br>
+      <a href="https://www.youtube.com/@EBAN_ideas" title="Youtube">
+        <img src="https://yt3.googleusercontent.com/8ugRXLb4eIgS-HFsKVwZ9_PeXbJhOMFnKBFSTgdBA55tvS7Xm6y8GzX7wQkr7Lh___Ct1dcGpA" alt="Logotipo do Canal EBAN" style="width:100px; height:100px; border-radius:50%;"/><br>
         <sub>
           <b>EBAN</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://avatars.githubusercontent.com/u/14793244?v=4" width="100px;" alt="Foto de André Bezerra" style="border-radius:50%"/><br>
+      <a href="https://www.linkedin.com/in/andre-bezerra-engineer/" title="Linkedin">
+        <img src="https://avatars.githubusercontent.com/u/14793244?v=4" alt="Foto de André Bezerra" style="width:100px; height:100px; border-radius:50%;"/><br>
         <sub>
           <b>BEZERRA, André</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQF9txJxY3G7Iw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675368062050?e=1755734400&v=beta&t=BNq5UWi5bbP2DA5d2cexvQ63ZmFFEA_w7hz7CPXx5JQ" width="100px;" alt="Foto de Monica Cardoso" style="border-radius:50%"/><br>
+      <a href="https://www.linkedin.com/in/monica-v-cardoso/" title="Linkedin">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQF9txJxY3G7Iw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675368062050?e=1755734400&v=beta&t=BNq5UWi5bbP2DA5d2cexvQ63ZmFFEA_w7hz7CPXx5JQ" alt="Foto de Monica Cardoso" style="width:100px; height:100px; border-radius:50%;"/><br>
         <sub>
           <b>CARDOSO, Monica</b>
         </sub>
