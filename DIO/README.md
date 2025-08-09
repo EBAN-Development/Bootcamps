@@ -14,6 +14,10 @@
 |SFE25 |Santander 2025 Front-End JS       |August, 31 2025  | :white_square_button:  |
 |WEE25 |WEX - End-to-End Engineering      |August, 25 2025  | :white_square_button:  |
 |FPHPE |Formação PHP Experience           |                 | :white_square_button:  |
+|DGA25 |Deal Group - AI Centric .NET      |October, 26 2025 | :white_square_button:  |
+|      |<link da pasta>                   |                 | :white_square_button:  |
+|      |<link da pasta>                   |                 | :white_square_button:  |
+|      |<link da pasta>                   |                 | :white_square_button:  |
 |      |<link da pasta>                   |                 | :white_square_button:  |
 
 
