@@ -15,7 +15,7 @@
 |WEE25 |[WEX - End-to-End Engineering](https://github.com/EBAN-Development/Bootcamps/tree/DIO-WEX-End-to-End-Engineering)|August, 25 2025| :white_square_button:  |
 |FPHPE |[Formação PHP Experience](https://github.com/EBAN-Development/Bootcamps/tree/DIO-WEX-End-to-End-Engineering)|    ---     | :white_square_button:  |
 |BDMLT |[BairesDev - Machine Learning Training]()           |  September, 21 2025   | :white_square_button:  |
-|DGA25 |[Deal Group - AI Centric .NET]()      |October, 26 2025 | :white_square_button:  |
+|DGA25 |[Deal Group - AI Centric .NET](https://github.com/EBAN-Development/Bootcamps/tree/DIO-Deal-Group-AI-Centric-NET/DIO)      |October, 26 2025 | :white_square_button:  |
 |      |<link da pasta>                   |                 | :white_square_button:  |
 |      |<link da pasta>                   |                 | :white_square_button:  |
 |      |<link da pasta>                   |                 | :white_square_button:  |
