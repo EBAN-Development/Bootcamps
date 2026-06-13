@@ -16,7 +16,7 @@
 |FPHPE |[Formação PHP Experience](https://github.com/EBAN-Development/Bootcamps/tree/DIO-WEX-End-to-End-Engineering)|    ---     | :white_square_button:  |
 |BDMLT |[BairesDev - Machine Learning Training]()           |  September, 21 2025   | :white_square_button:  |
 |DGA25 |[Deal Group - AI Centric .NET](https://github.com/EBAN-Development/Bootcamps/tree/DIO-Deal-Group-AI-Centric-NET/DIO)      |October, 26 2025 | :white_square_button:  |
-|      |<link da pasta>                   |                 | :white_square_button:  |
+|MGA26 |[Microsoft - GitHub Copilot e Azure Serverless na Prática](https://github.com/EBAN-Development/Bootcamps/tree/DIO-26-Microsoft-GitHub-Copilot-e-Azure-Serverless-na-Pratica/DIO)   |June, 21 2026                 | :white_square_button:  |
 |      |<link da pasta>                   |                 | :white_square_button:  |
 |      |<link da pasta>                   |                 | :white_square_button:  |
 |      |<link da pasta>                   |                 | :white_square_button:  |
